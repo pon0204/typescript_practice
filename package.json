@@ -16,7 +16,6 @@
     "@typescript-eslint/parser": "^4.25.0",
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
-    "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.0",
     "ts-loader": "^9.2.2",
@@ -35,5 +34,4 @@
       "npm run lint-fix"
     ]
   }
-
 }
